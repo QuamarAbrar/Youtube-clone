@@ -1,5 +1,5 @@
-# Youtube-clone
-# home page:
+# Youtube-Clone:
+# Home:
  # css:
  body{
     background-color: black;
@@ -547,7 +547,7 @@
         </div>
         <div class="sidebar-buttons">
             <span><img src="yotube icons and images/subscriptions.png" alt="subscriptions"></span>
-            <a href="subscriptions.html">Subcriptions</a>
+            <a href="subscriptions.html">Subscriptions</a>
         </div>
         <div class="linebreak"></div>
         <div class="sidebar-buttons">
@@ -882,8 +882,8 @@
 </html>
 
 # Subscriptions:
-  # css:
-  body{
+ # css:
+ body{
     background-color: black;
     color: white;
 }
@@ -1513,8 +1513,8 @@
 </html>
 
 # History:
-  # css:
-  body{
+ # css:
+ body{
     background-color: black;
     color: white;
 }
@@ -2476,8 +2476,8 @@ https://www.instagram.com/gothamchess/ Want to SKYROCKET
 </html>
 
 # Playlists:
-  # css:
-  body{
+ # css:
+ body{
     background-color: black;
     color: white;
 }
